@@ -15,6 +15,9 @@ Ushbu loyiha shaxsiy moliya va hamyonlarni boshqarish uchun mo'ljallangan **REST
 * **Dokumentatsiya**: drf-spectacular (Swagger UI)
 * **Baza**: SQLite (Loyiha kichikligi uchun tanlangan)
 
+Login = muhammadalii5606@gmail.com
+Parol = 123
+
 ## 🚀 Loyihani ishga tushirish (Local)
 
 1.  **Loyihani klon qiling:**
